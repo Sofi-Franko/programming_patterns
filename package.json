@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Repo which represents examples of popular patterns of designing programming common solution",
   "main": "patterns.js",
+  "type": "module",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "singletone": "npm run singleton/example_1/cake.js"
   },
   "repository": {
     "type": "git",

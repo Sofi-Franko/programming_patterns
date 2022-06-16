@@ -1,0 +1,22 @@
+{
+  "name": "programming_patterns",
+  "version": "1.0.0",
+  "description": "Repo which represents examples of popular patterns of designing programming common solution",
+  "main": "patterns.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sofi-Franko/programming_patterns.git"
+  },
+  "author": "Sofi Franchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sofi-Franko/programming_patterns/issues"
+  },
+  "homepage": "https://github.com/Sofi-Franko/programming_patterns#readme",
+  "devDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
